@@ -1,0 +1,25 @@
+# Compiled class files & build artifacts
+target/
+*.class
+dependency-reduced-pom.xml
+
+# Maven binaries & wrappers
+.mvn_bin/
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Temporary / extraction directories
+temp_excel/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
